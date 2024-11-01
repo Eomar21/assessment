@@ -1,0 +1,6 @@
+@ParcelAutomator.API_HostAddress = http://localhost:5101
+
+GET {{ParcelAutomator.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
